@@ -1,1 +1,8 @@
 
+{
+  "allowed_tokens": [
+    "TOKEN_1",
+    "TOKEN_2",
+    "TOKEN_3"
+  ]
+}
